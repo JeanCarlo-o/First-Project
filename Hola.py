@@ -1,4 +1,4 @@
 def saludar(nombre):
-    print(f"Hola, {nombre}!")
+    print(f"Hola, {nombre}")
 
 saludar("Jean")
